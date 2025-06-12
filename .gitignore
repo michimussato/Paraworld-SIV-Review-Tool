@@ -1,3 +1,10 @@
+# General
 videos/*
 !videos/.gitkeep
 *.blend1
+
+
+# Obsidian
+.obsidian/hotkeys.json
+.obsidian/workspace.json
+.obsidian/workspaces.json
