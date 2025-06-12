@@ -38,3 +38,10 @@ With the color of the annotation (which you want to delete) selected, click the 
 and delete the annotation(s) from all frames
 
 ![Delete Annotation](.media/delete_annotation.png "Delete Annotation from all Frames")
+
+### View
+
+![Views](.media/view.png "Views")
+
+- Fill video to view: `Home`
+- Autozoom to always fill the the available window space
