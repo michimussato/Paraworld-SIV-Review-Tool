@@ -29,13 +29,12 @@ Make sure the "Draw" tool is selected:
 
 ##### Erase
 
-Erase: Press `D` and `Right Mouse Click` to remove the annotation starting from the 
-selected frame while all previous frames will still have the annotation.
+Erase: Press `D` and `Right Mouse Click` to remove the annotation.
 
 ##### Delete
 
 With the color of the annotation (which you want to delete) selected, click the `x` icon
-and delete the annotation(s) from all frames
+and delete the annotation(s).
 
 ![Delete Annotation](.media/delete_annotation.png "Delete Annotation from all Frames")
 
