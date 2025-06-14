@@ -44,3 +44,7 @@ and delete the annotation(s).
 
 - Fill video to view: `Home`
 - Autozoom to always fill the the available window space
+
+### Blender Version
+
+4.4.3
